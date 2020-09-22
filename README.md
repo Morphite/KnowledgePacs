@@ -8,7 +8,7 @@ K-PAC Set - an entity that displays a set of entities of the K-PAC type
 
 Technologies and tools:
 
-Front-end: DHTMLx (Grid), JS
+Front-end: JSP, JSTL, DHTMLx (Grid), JS
 
 Back-end: Java, Spring MVC, JDBC Template
 
