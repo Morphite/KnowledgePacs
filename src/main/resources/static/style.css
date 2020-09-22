@@ -1,0 +1,65 @@
+
+#container > div {
+    margin: auto;
+}
+
+#grid_container {
+    display: block;
+    width: 70%;
+    height: 50%;
+}
+
+#buttons {
+    font-size: large;
+    margin: 5px;
+    width: 10%;
+}
+
+#back_btn {
+    margin-left: 50px;
+}
+
+.dhx_sample-btn a {
+    color: white;
+}
+
+.dhx_form-group {
+    width: 250px;
+}
+
+.dhx_sample-btn--flat {
+    margin-right: 12px;
+    background: #0288d1;
+    color: #fff;
+}
+
+.pac_create_btn {
+    margin-left: 10px;
+}
+
+.set_input {
+    margin-bottom: 10px !important;
+}
+
+.pac_select {
+    width: 100%;
+    height: 130px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #DFDFDF;
+    flex-direction: column;
+}
+
+.mar {
+    position: absolute;
+    bottom: 3px;
+}
+
+.creation_date {
+    width: 175px;
+}
+
